@@ -31,15 +31,9 @@
     </dependency>
     <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
     <dependency>
-<<<<<<< HEAD
-      <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-java</artifactId>
-      <version>3.141.59</version>
-=======
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
         <version>3.141.59</version>
->>>>>>> e21ea7f38397f7708a88eba13183d90e2195aa94
     </dependency>
 
   </dependencies>
